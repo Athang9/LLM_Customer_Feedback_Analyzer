@@ -46,9 +46,8 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-| Summary Output | Topic Clustering |
-|----------------|------------------|
-| ![summary](homepage.png) | ![topics](result.png) | ![topics](result1.png)
+| ![Homepage](screenshots/homepage.png) | ![Summary](screenshots/result.png) | ![Thematic Clustering](screenshots/result1.png) |
+
 
 ---
 
