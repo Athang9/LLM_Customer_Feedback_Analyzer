@@ -46,7 +46,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-| ![Homepage](screenshots/homepage.png) | ![Summary](screenshots/result.png) | ![Thematic Clustering](screenshots/result1.png) |
+| ![Homepage](homepage.png) | ![Summary](result.png) | ![Thematic Clustering](result1.png) |
 
 
 ---
